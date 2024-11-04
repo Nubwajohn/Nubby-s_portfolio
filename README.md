@@ -1,6 +1,6 @@
 # Hello, I'm Nubwa Zamdayi John!
-### 🔹 Data Analyst | Business Analyst | Machine Learning Enthusiast
-### 🔹 Microsoft Certified Professional
+#### 🔹 Data Analyst | Business Analyst | Machine Learning Enthusiast 
+#### 🔹 Microsoft Certified Professional
 
 # Nubby-s_portfolio
 
