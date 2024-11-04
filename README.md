@@ -4,11 +4,11 @@
 # Nubby-s_portfolio
 
 #### Core Competencies
-- Programming & Analytics: Python (Pandas, NumPy, Scikit-Learn), SQL, Excel (Power Query, Pivot Tables), Power BI, Statistics (CART - Classification and Regression Trees), Machine Learning
-- Data Visualization: Matplotlib, Seaborn, Power BI
-- Data Management: EDMS, metadata management, data labeling
-- Automation & Office Tools: Microsoft Office Suite (Excel, Word, PowerPoint, Outlook, Visio, Automate)
-- Project Management: Coordination, task scheduling, KPI tracking
+- **Programming & Analytics**: Python (Pandas, NumPy, Scikit-Learn), SQL, Excel (Power Query, Pivot Tables), Power BI, Statistics (CART - Classification and Regression Trees), Machine Learning
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
+- **Data Management**: EDMS, metadata management, data labeling
+- **Automation & Office Tools**: Microsoft Office Suite (Excel, Word, PowerPoint, Outlook, Visio, Automate)
+- **Project Management**: Coordination, task scheduling, KPI tracking
 
 ## Analytics Projects
 
