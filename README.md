@@ -1,7 +1,31 @@
+# Welcome to My GitHub Profile!
+### I'm Nubwa Zamdayi John
+
 # Nubby-s_portfolio
+
+#### Core Competencies
+- Programming & Analytics: Python (Pandas, NumPy, Scikit-Learn), SQL, Excel (Power Query, Pivot Tables), Power BI, Statistics (CART - Classification and Regression Trees), Machine Learning
+- Data Visualization: Matplotlib, Seaborn, Power BI
+- Data Management: EDMS, metadata management, data labeling
+- Automation & Office Tools: Microsoft Office Suite (Excel, Word, PowerPoint, Outlook, Visio, Automate)
+- Project Management: Coordination, task scheduling, KPI tracking
+
 ## Analytics Projects
 
+- #### Recell Price Prediction
+*Objective* : Predict prices of used electronic devices to guide inventory pricing
 
-### Recell: Predicting the price of used electronic devices, focusing on phones and tablets.
-#### The Project falls under supervised learning, regression and data science.
--The model effectively predicts the prices of used phones and tablets with an average deviation of only 4.5%, providing ReCell with valuable insights for inventory pricing and a competitive edge in the market. Additionally, the model explains approximately 84% of the variance, indicating a strong relationship between the features and the target variable, which showcases its good predictive power.
+*Result* : Achieved a deviation of only 4.5% from actual prices and explained 84% of variance in device pricing
+
+- #### E-news Express Landing Page Analysis
+*Objective* : Analyze user engagement post-landing page redesign
+
+*Result* : Demonstrated a significant increase in user engagement (p<0.05) and consistent results across language preferences.
+
+- #### FoodHub Customer Insight Analysis
+*Objective* : Provide insights into customer behavior and restaurant performance
+
+*Outcome*: Identified top-performing restaurants and cuisines, average delivery time, and suggested strategies to boost revenue.
+
+
+
