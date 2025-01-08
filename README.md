@@ -13,7 +13,7 @@
 
 ## Analytics Projects
 
-- #### <a href="https://github.com/Nubwajohn/Supervised-Learning-Classification-Project)">Ensemble Techniques Project</a> EasyVisa.
+- #### <a href="https://github.com/Nubwajohn/Ensemble-Techniques-Proje)">Ensemble Techniques Project</a> EasyVisa.
 
 *Objective* : Use data analysis and a classification model to streamline visa approvals by identifying key factors and recommending certification or denial for applicants.
 
