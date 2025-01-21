@@ -13,7 +13,13 @@
 
 ## Analytics Projects
 
-- #### <a href="https://github.com/Nubwajohn/Ensemble-Techniques-Proje)">Ensemble Techniques Project</a> EasyVisa.
+- #### <a href="https://github.com/Nubwajohn/Model-Tuning-Project)">Model Tuning Project</a> ReneWind.
+
+*Objective* : The goal is to create and improve models to predict generator failures, reduce costly missed failures (requiring replacement), and balance repair costs for correct predictions and inspection costs for false alarms.
+
+*Result* : The model relies heavily on key features like V36, V18, and V14, while many others have little impact, suggesting the model could be improved by focusing on the most important features.
+
+- #### <a href="https://github.com/Nubwajohn/Ensemble-Techniques-Project)">Ensemble Techniques Project</a> EasyVisa.
 
 *Objective* : Use data analysis and a classification model to streamline visa approvals by identifying key factors and recommending certification or denial for applicants.
 
