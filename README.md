@@ -13,6 +13,12 @@
 
 ## Analytics Projects
 
+- #### <a href="https://github.com/Nubwajohn/Unsupervised-Learning-Trade-Aheadt" title="Unsupervised Learning Project">Unsupervised Learning Project</a> Trade Ahead
+
+*Objective* : The objective is to analyze stock price data and financial indicators of NYSE-listed companies, categorize stocks based on their attributes, and derive insights into the characteristics of each group.
+
+*Result* : The cluster analysis identified distinct stock groups, revealing financial instability in oil and gas firms, stability in traditional energy companies, steady performance in low-priced stocks, innovation-driven but financially challenged tech and healthcare firms, and speculative high-growth tech companies, guiding strategic investment decisions.
+
 - #### <a href="https://github.com/Nubwajohn/Model-Tuning-Project" title="Model Tuning Project">Model Tuning Project</a> ReneWind
 
 *Objective* : The goal is to create and improve models to predict generator failures, reduce costly missed failures (requiring replacement), and balance repair costs for correct predictions and inspection costs for false alarms.
