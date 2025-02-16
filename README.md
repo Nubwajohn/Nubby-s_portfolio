@@ -13,7 +13,7 @@
 
 ## Analytics Projects
 
-- #### <a href="https://github.com/Nubwajohn/Unsupervised-Learning-Trade-Aheadt" title="Unsupervised Learning Project">Unsupervised Learning Project</a> Trade Ahead
+- #### <a href="https://github.com/Nubwajohn/Unsupervised-Learning-Trade-Ahead" title="Unsupervised Learning Project">Unsupervised Learning Project</a> Trade Ahead
 
 *Objective* : The objective is to analyze stock price data and financial indicators of NYSE-listed companies, categorize stocks based on their attributes, and derive insights into the characteristics of each group.
 
